@@ -20,8 +20,9 @@ Here are some screenshots of the HLS Stream Player interface:
 ![preview 2](https://i.ibb.co/N2hdbht/HLS-Stream-Player-Preview-Poster-35257-F0.png)
 
 ![preview 3](https://i.ibb.co/mSbQqcj/HLS-Stream-Player-Preview-Poster-24-F44-C6.png)
-Try the live demo: [HLS Stream Player](https://hls-stream-player.netlify.app)
 </div>
+
+Try the live demo: [HLS Stream Player](https://hls-stream-player.netlify.app)
 
 
 
