@@ -1,6 +1,7 @@
 # HLS Stream Player
 
 <div align="center">
+
 ![GitHub forks](https://img.shields.io/github/forks/UncknownGuy/hls-player?style=social)
 ![GitHub views](https://komarev.com/ghpvc/?username=UncknownGuy&color=brightgreen)
 ![GitHub stars](https://img.shields.io/github/stars/UncknownGuy/hls-player?style=social)
